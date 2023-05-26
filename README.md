@@ -15,6 +15,7 @@ El proyecto, aunque funcional es un proyecto poco maduro; por ello se solicita a
 5. Exposición de Puertos.
 6. Concurrencia.
 7. Procesos Administrativos.
+8. Buildear la imagen del repositorio.
 
 
 
